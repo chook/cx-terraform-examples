@@ -1,2 +1,5 @@
-# cx-terraform-examples
-Showcasing setting Coralogix using Terraform 
+Showcasing Coralogix using Terraform 
+====================================
+
+
+[ECS Fargate](ecs-fargate)
